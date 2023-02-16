@@ -1,0 +1,22 @@
+.home-div {
+    background-color: rgba(80, 77, 77, 0.822);
+    box-shadow: 1px 1px 1px black;
+    border: white 1px solid;
+    height: 50%;
+    width: 100%;
+}
+
+.home-div h1 {
+    color: white;
+}
+
+.home-div h2 {
+    color: white;
+    text-decoration: underline;
+}
+
+.home-card-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
